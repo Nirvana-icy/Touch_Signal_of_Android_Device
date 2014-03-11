@@ -17,6 +17,7 @@ int num = 30;
 
 void setup() 
 {
+  //size(640,960);
   xvals = new int[width];  //This array contain all the x value(screen width)
   yvals = new int[width];
   bvals = new int[width];  //bvals means touch pressed
